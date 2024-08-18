@@ -12,7 +12,7 @@ Amanbatra03/Amanbatra03 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-👋 I'm currently as SAP Consultant at Deloitte USI<br>👀 I'm looking forward to collaborate on building Machine learning and Deep Learning Projects.<br>🌱 I'm looking for help with building strong foundation on Deep Learning area such as Generative AI.<br>🚧 I'm currently learning builing RAG agents using LANGCHAIN<br>💞️ Ask me about music since I love making beats<br>⚡Fun Fact AGI already exist.
+👋 I'm currently as SAP Consultant at Deloitte USI<br>👀 I'm looking forward to collaborate on building Machine learning and Deep Learning Projects.<br>🌱 I'm looking for help with building strong foundation on Deep Learning area such as Generative AI.<br>🚧 I'm currently learning builing RAG agents using LANGCHAIN<br>💞️ Ask me about music since I love making beats<br>⚡ Fun Fact: AGI already exist.
 
 
 ## 🌐 Socials:

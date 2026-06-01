@@ -39,6 +39,7 @@ Background in SAP consulting at **Protiviti**, now focused full-time on AI/ML en
 | [**AI-Native ERP**](https://github.com/Amanbatra03/ai-native-erp) | Full-stack ERP where you query the database in plain English. LangChain SQL agent translates natural language → SQL → live business insight. Includes AI lead scoring and autonomous automation agents | FastAPI · LangChain · Gemini 2.0 Flash · React · SQLite |
 | [**Koda ERP**](https://github.com/Amanbatra03/koda-erp) | AI-native enterprise brain with a custom Neural Layer engine. Predictive cash flow (30-day forecast), AI lead scoring, automated payroll, and a global NLP search bar across all modules | Next.js 14 · TypeScript · Framer Motion · Tailwind CSS |
 | [**Ableton MCP Server**](https://github.com/Amanbatra03/ableton-mcp) | MCP server exposing 12 Ableton Live controls as structured LLM-callable tools. Ask an AI to compose a chord, set tempo, fire a clip — it orchestrates the tool calls and controls the DAW in real time | Python · FastMCP · OSC · Claude/GPT-4 |
+| [**Invoice Extractor**](https://github.com/Amanbatra03/invoice-extractor) | Dual-mode invoice data extraction: Google Gemini 1.5 Flash vision for image invoices (JPG/PNG), and a fully offline RAG pipeline using Ollama + ChromaDB + LangChain for PDF invoices. Streamlit UI for both modes | Python · Gemini 1.5 Flash · LangChain · ChromaDB · Ollama · Streamlit |
 
 ### Machine Learning & Deep Learning
 

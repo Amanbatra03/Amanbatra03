@@ -17,7 +17,7 @@
 
 ## About Me
 
-I build AI-powered applications — from LangChain agents that query databases in plain English, to MCP servers that let LLMs control music production software in real time.
+I build AI-powered applications - from LangChain agents that query databases in plain English, to MCP servers that let LLMs control music production software in real time.
 
 Background in SAP consulting at **Protiviti**, now focused full-time on AI/ML engineering: agentic systems, predictive analytics, deep learning, and full-stack AI products.
 

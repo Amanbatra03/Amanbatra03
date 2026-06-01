@@ -21,6 +21,7 @@ I build AI-powered applications — from LangChain agents that query databases i
 
 Background in SAP consulting at **Protiviti**, now focused full-time on AI/ML engineering: agentic systems, predictive analytics, deep learning, and full-stack AI products.
 
+- Building **multi-agent systems** with iterative refinement loops, structured output, and LLM observability
 - Building **RAG agents** and **agentic ERP systems** with LangChain + Gemini
 - Exploring **MCP (Model Context Protocol)** for connecting LLMs to real-world tools
 - Strong foundation in classical ML: SVM, Random Forest, Decision Trees, PCA, ANN, CNN
@@ -33,6 +34,7 @@ Background in SAP consulting at **Protiviti**, now focused full-time on AI/ML en
 
 | Project | Description | Stack |
 |---|---|---|
+| [**Business Analyst AI Agent**](https://github.com/Amanbatra03/business-analyst-agent) | Multi-agent system (Orchestrator + Analyst + Evaluator) that drafts and iteratively refines Business Requirements Documents. Evaluator scores each draft 1–10 via structured JSON; loop continues until score ≥ 9. Includes context compaction and full observability (logging, tracing, metrics) | Gemini 2.5 Flash · Multi-Agent · Structured Output |
 | [**AI-Native ERP**](https://github.com/Amanbatra03/ai-native-erp) | Full-stack ERP where you query the database in plain English. LangChain SQL agent translates natural language → SQL → live business insight. Includes AI lead scoring and autonomous automation agents | FastAPI · LangChain · Gemini 2.0 Flash · React · SQLite |
 | [**Koda ERP**](https://github.com/Amanbatra03/koda-erp) | AI-native enterprise brain with a custom Neural Layer engine. Predictive cash flow (30-day forecast), AI lead scoring, automated payroll, and a global NLP search bar across all modules | Next.js 14 · TypeScript · Framer Motion · Tailwind CSS |
 | [**Ableton MCP Server**](https://github.com/Amanbatra03/ableton-mcp) | MCP server exposing 12 Ableton Live controls as structured LLM-callable tools. Ask an AI to compose a chord, set tempo, fire a clip — it orchestrates the tool calls and controls the DAW in real time | Python · FastMCP · OSC · Claude/GPT-4 |

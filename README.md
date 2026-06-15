@@ -17,13 +17,14 @@
 
 ## About Me
 
-I build AI-powered applications - from LangChain agents that query databases in plain English, to MCP servers that let LLMs control music production software in real time.
+I build AI-powered applications - from LangChain agents that query databases in plain English, to production-grade MCP servers that let Claude and GPT control music production software, financial systems, and enterprise tools in real time.
 
-Background in SAP consulting at **Protiviti**, now focused full-time on AI/ML engineering: agentic systems, predictive analytics, deep learning, and full-stack AI products.
+Background in SAP consulting at **Protiviti**, now focused full-time on AI/ML engineering: agentic systems, predictive analytics, deep learning, full-stack AI products, and protocol-driven AI integration.
 
+**Current focus:**
 - Building **multi-agent systems** with iterative refinement loops, structured output, and LLM observability
 - Building **RAG agents** and **agentic ERP systems** with LangChain + Gemini
-- Exploring **MCP (Model Context Protocol)** for connecting LLMs to real-world tools
+- Building **MCP (Model Context Protocol) servers** for connecting Claude/GPT to production systems
 - Strong foundation in classical ML: SVM, Random Forest, Decision Trees, PCA, ANN, CNN
 
 ---
@@ -38,7 +39,7 @@ Background in SAP consulting at **Protiviti**, now focused full-time on AI/ML en
 | [**Phidata AI Agents**](https://github.com/Amanbatra03/phidata-ai-agents) | Finance & Web multi-agent team built with Phidata. A Web Agent (DuckDuckGo) and Finance Agent (YFinance — live stock price, fundamentals, analyst ratings) are orchestrated by a Team Agent to produce unified financial research reports | Phidata · Groq Llama 3.1 70B · YFinance · DuckDuckGo |
 | [**AI-Native ERP**](https://github.com/Amanbatra03/ai-native-erp) | Full-stack ERP where you query the database in plain English. LangChain SQL agent translates natural language → SQL → live business insight. Includes AI lead scoring and autonomous automation agents | FastAPI · LangChain · Gemini 2.0 Flash · React · SQLite |
 | [**Koda ERP**](https://github.com/Amanbatra03/koda-erp) | AI-native enterprise brain with a custom Neural Layer engine. Predictive cash flow (30-day forecast), AI lead scoring, automated payroll, and a global NLP search bar across all modules | Next.js 14 · TypeScript · Framer Motion · Tailwind CSS |
-| [**Ableton MCP Server**](https://github.com/Amanbatra03/ableton-mcp) | MCP server exposing 12 Ableton Live controls as structured LLM-callable tools. Ask an AI to compose a chord, set tempo, fire a clip — it orchestrates the tool calls and controls the DAW in real time | Python · FastMCP · OSC · Claude/GPT-4 |
+| [**Ableton OSC MCP v1.0.0**](https://github.com/Amanbatra03/ableton-mcp) | **[Published on PyPI](https://pypi.org/project/ableton-osc-mcp/)** — Production-ready MCP server exposing **52 tools** for controlling Ableton Live via OSC. Includes: transport control, track/clip management, 35 device parameter mappings (158+ parameters), music theory (chords/scales/progressions), drum patterns, batch mixing workflows, metering & analysis. Pure Python music theory library with zero external dependencies. Full CI/CD (ruff, pyright, pytest). | Python · FastMCP · OSC · Claude · Pydantic |
 | [**Invoice Extractor**](https://github.com/Amanbatra03/invoice-extractor) | Analyst-grade invoice extraction with a dual-mode pipeline. PDF path: LangGraph 5-node agentic RAG, BM25 + ChromaDB hybrid retrieval (RRF), OCR fallback for scanned PDFs, arithmetic validation, and extraction persistence. Image path: Gemini 2.0 Flash vision. Multi-invoice comparison with discrepancy detection. Full offline mode — no API key needed for PDFs. | Python · LangGraph · Gemini 2.0 Flash · ChromaDB · Ollama · Streamlit |
 
 ### Machine Learning & Deep Learning
@@ -56,11 +57,17 @@ Background in SAP consulting at **Protiviti**, now focused full-time on AI/ML en
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B6?style=for-the-badge&logo=google&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Protocols & Frameworks**
+
+![MCP](https://img.shields.io/badge/MCP-Protocol-blueviolet?style=for-the-badge)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
 **Backend & APIs**
 

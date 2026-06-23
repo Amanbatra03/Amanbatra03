@@ -19,7 +19,7 @@
 
 I build AI-powered applications - from LangChain agents that query databases in plain English, to production-grade MCP servers that let Claude and GPT control music production software, financial systems, and enterprise tools in real time.
 
-Background in SAP consulting at **Protiviti**, now focused full-time on AI/ML engineering: agentic systems, predictive analytics, deep learning, full-stack AI products, and protocol-driven AI integration.
+Background in SAP consulting at **Protiviti**, focused full-time on AI/ML engineering: agentic systems, predictive analytics, deep learning, full-stack AI products, and protocol-driven AI integration.
 
 **Current focus:**
 - Building **multi-agent systems** with iterative refinement loops, structured output, and LLM observability
